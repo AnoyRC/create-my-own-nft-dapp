@@ -1,0 +1,16 @@
+{
+	"name": "ColorfulNigger",
+	"symbol": "BRL",
+	"description": "Unique Occurence of a RGB nigger",
+	"image": "1.png",
+	"attributes":[],
+	"properties": {
+		"files": [{ "uri": "1.png", "type": "image/png" }],
+		"creators": [
+			{
+				"address": "FkyytQqJ9YfwmAtkZVFmZRsdGd77ufNiWHyVbTsd5Z9v",
+				"share": 100
+			}
+		]
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"name": "ThakurDadu",
+	"symbol": "BRL",
+	"description": "You can call me GrandGod",
+	"image": "2.png",
+	"attributes":[],
+	"properties": {
+		"files": [{ "uri": "2.png", "type": "image/png" }],
+		"creators": [
+			{
+				"address": "FkyytQqJ9YfwmAtkZVFmZRsdGd77ufNiWHyVbTsd5Z9v",
+				"share": 100
+			}
+		]
+	}
+}

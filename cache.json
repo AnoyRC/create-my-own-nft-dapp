@@ -1,0 +1,33 @@
+{
+  "program": {
+    "candyMachine": "CJmmhh8XtfCobxDYFxgN5GuETQbJypg3AggDpLdhCT1a",
+    "candyMachineCreator": "8HKakMFnwD1N32avvnjE1ZBHawvpdtSZWBayTN4zUPdp",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "Bruhul",
+      "image_hash": "5c63f4e5531fc5dad0093764de7fdf924741ba6eb6d56e693d254881284bedff",
+      "image_link": "https://arweave.net/dDN0utfDmyzdR-8bEaG0r1ANjpch3yXEXaV-e267aEE?ext=png",
+      "metadata_hash": "37cf2752a219336a248908bc73697578739410a5505c7d397fe9e3c0d2fc6df2",
+      "metadata_link": "https://arweave.net/tD4LnfgCXk6r6qsGbpkJFBiOvE4fArtYfMtZrIw-1qc",
+      "onChain": true
+    },
+    "1": {
+      "name": "ColorfulNigger",
+      "image_hash": "107ff2b0d0a1d93c6fd988155bb3ebf12e2d44c5bb8e88c25bd0e7be219c430e",
+      "image_link": "https://arweave.net/hPG-pHpyNpzqGoOCzHfwxZ2orBGSUvXOC32LpcZY-5Y?ext=png",
+      "metadata_hash": "2c0d970bcb69d73948c3071c111f47823c870b1d91c585763426fc02f7e8cb47",
+      "metadata_link": "https://arweave.net/8rWGYHxbt412vcHnkNCB_HX3O3Y49k9llYkfjIJqTVM",
+      "onChain": true
+    },
+    "2": {
+      "name": "ThakurDadu",
+      "image_hash": "6edb116d81b7cb555343d9064034158ed3e523c4a14bc6d696c6696df88eb472",
+      "image_link": "https://arweave.net/-Yl7VUl6fZKAOl-ohMK9hAlHixX3LkKH7UGCcSfiQDU?ext=png",
+      "metadata_hash": "f0aae75f50551c1bd2e5208c021aa1e78a0abd1acbc67fc65e22f18d8d14039c",
+      "metadata_link": "https://arweave.net/8mCJBGvPIfIqDsKWAoa_iGeyUsBqHW3X-BXh1Oo1Myk",
+      "onChain": true
+    }
+  }
+}
